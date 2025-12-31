@@ -1,4 +1,4 @@
-# Yehudit Yaakovzon | Full Stack Developer
+# Yeudit Yakovzon | Software Developer
 
 ### Full Stack Developer | Problem Solver | Lifelong Learner
 
@@ -16,18 +16,34 @@ I am a Full Stack Developer with hands-on experience in building cloud-based sys
 ## Skills & Technologies
 
 ### Languages & Frameworks  
-🟩 C# | 🟦 Java | 🟧 Python | 🟪 C | 🔵 .NET 8 / ASP.NET Core | 🟩 Node.js | 🟦 Express  
-🟩 JavaScript (ES6+) | 🟦 TypeScript | 🟨 Angular | 🟦 React
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-E23237?style=flat&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Databases & ORM  
-🟩 SQL Server | 🟧 MongoDB | 🟨 Entity Framework Core | 🟦 JPA/Hibernate
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-7A7A7A?style=flat&logo=entity-framework&logoColor=white)
 
 ### Tools & Methodologies  
-🟩 REST APIs | 🟦 Microservices | 🟧 Git | 🟨 Postman | 🟦 Swagger | 🟩 Agile | 🟨 Docker  
-🌐 AWS (Lambda, API Gateway, S3, Bedrock, Step Functions) | 🔒 Cognito
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Cognito](https://img.shields.io/badge/Amazon%20Cognito-FF9900?style=flat&logo=amazon-cognito&logoColor=white)  
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 
 ### Machine Learning & AI  
-🧠 GPT | Claude | AI-powered Systems | Retrieval-Augmented Generation (RAG)
+![GPT](https://img.shields.io/badge/GPT-FF4500?style=flat&logo=openai&logoColor=white)  
+![Claude](https://img.shields.io/badge/Claude-00B0D5?style=flat&logo=openai&logoColor=white)
 
 ---
 
@@ -64,6 +80,5 @@ I believe good code is like a good story – clear, structured, and engaging.
 ---
 
 ## Connect with Me  
-- **[LinkedIn](https://www.linkedin.com/in/your-linkedin)**  
-- **[GitHub](https://github.com/your-github)**  
+- **[GitHub](https://github.com/YeuditY705)**  
 - 📧 Y05271907@gmail.com
