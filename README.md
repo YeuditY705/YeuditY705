@@ -1,10 +1,10 @@
-# Yeudit Yakovzon | Software Developer
+# 👋Yeudit Yakovzon | Software Developer
 
 ### Full Stack Developer | Problem Solver | Lifelong Learner
 
-**Contact Info:**  
-📧 Y05271907@gmail.com  
-📱 0527190705
+### Contact Me
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:y05271907@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/YeuditY705)
 
 ---
 
@@ -13,37 +13,56 @@ I am a Full Stack Developer with hands-on experience in building cloud-based sys
 
 ---
 
-## Skills & Technologies
+##  Skills & Technologies
 
-### Languages & Frameworks  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-E23237?style=flat&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+### 🚀 Languages & Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
-### Databases & ORM  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-7A7A7A?style=flat&logo=entity-framework&logoColor=white)
+---
 
-### Tools & Methodologies  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Cognito](https://img.shields.io/badge/Amazon%20Cognito-FF9900?style=flat&logo=amazon-cognito&logoColor=white)  
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
+### 🧰 Frameworks & Tools
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-### Machine Learning & AI  
-![GPT](https://img.shields.io/badge/GPT-FF4500?style=flat&logo=openai&logoColor=white)  
-![Claude](https://img.shields.io/badge/Claude-00B0D5?style=flat&logo=openai&logoColor=white)
+---
+
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazon-aws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-FF4F00?logo=amazon-aws&logoColor=white)
+
+---
+
+### 🤖 Machine & Deep Learning
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+
+---
+
+
+### ✨Machine Learning & AI  
+![GPT](https://img.shields.io/badge/GPT-FF4500?logo=openai&logoColor=white)  ![Claude](https://img.shields.io/badge/Claude-00B0D5?logo=openai&logoColor=white)
 
 ---
 
@@ -66,18 +85,11 @@ I am a Full Stack Developer with hands-on experience in building cloud-based sys
 - Designed dynamic data views with AgGrid and implemented Route Guards for secure navigation.
 
 ---
+## **Education**
 
-## Education  
-- **Advanced Courses**: Algorithms, Data Structures, Graphs – Kama-Tech Ultra-code  
-- **Software Engineering Diploma** – Ma'ayan-Tec | High GPA  
-- **Accounting 1, 2** – Ministry of Education
-
----
-
-## Fun Fact  
-I believe good code is like a good story – clear, structured, and engaging.
-
----
+**Software Engineering | MAHAT – College of Management**  
+📅 2023–2025  
+🎯 Completed advanced courses in engineering algorithms & ultra-code topics.
 
 ## Connect with Me  
 - **[GitHub](https://github.com/YeuditY705)**  
